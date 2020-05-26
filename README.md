@@ -1,2 +1,2 @@
 # Simon-Game
-###言語：javascript , jQuery
+### 言語：javascript , jQuery
